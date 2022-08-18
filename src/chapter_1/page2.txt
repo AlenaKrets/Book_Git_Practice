@@ -5,3 +5,5 @@ I love Java
 
 This is my page2
 
+hi
+hello
